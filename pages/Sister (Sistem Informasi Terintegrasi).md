@@ -1,0 +1,16 @@
+- konsep
+	- integrasi sisfo kepegawaian
+	- kegiatan tridarma
+	- selain berkaitan dengan IKU juga berfungsi sebagai platform kenaikan jabatan ( **rencananya** )
+- positif
+	- daring
+		- dapat diisi dari mana saja
+		- login sebagai dosen dan sebagai admin
+	- menghubungkan data antar dosen
+		- bila satu dokumen sudah diunggah oleh seorang dosen, dosen lain yang berkaitan dengan dokumen yang sama tidak perlu mengunggah ulang dokumen dari akunnya
+		- hal yang sama berlaku untuk penilaian suatu karya yang melibatkan beberapa orang dosen.
+			- hasil penilaian yang sama akan otomatis muncul di akun semua dosen terkait
+- negatif
+	- sistem unggah dokumen, untuk dokumen yang sudah daring
+	- hanya satu cara
+	-

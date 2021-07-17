@@ -1,0 +1,8 @@
+- singkatan dari Merdeka Belajar Kampus Merdeka
+- konsepnya adalah sbb:
+	- melibatkan [[pemangku kepentingan]]
+	- multidisiplin
+	- *problem-solving* di dunia nyata (baca: dunia industri dan masyarakat)
+	- menghapus batas administrasi
+	- memberikan fleksibilitas
+	- mendefinisikan ulang kata `belajar`

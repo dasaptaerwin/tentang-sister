@@ -1,0 +1,11 @@
+- ilmu dasar, ilmu terapan
+- multidisiplin
+- melibatkan dosen perguruan tinggi yang sama atau yang berbeda
+- dalam atau luar negeri
+- luaran:
+	- yang utama: artikel yang terbit di jurnal internasional bereputasi dan [[berfaktor dampak]]
+	- faktor dampak
+		- dampak apa?
+		- [[journal impact factor]]
+		- yang lain: ada [[cite score]] , [[scimago rank]]
+		- terlalu banyak?

@@ -1,0 +1,4 @@
+- ukuran metrik dari Clarivate Analytics
+- dibuat oleh [[Eugene Garfield]]
+- berbasis [[jumlah sitasi]]
+- ...

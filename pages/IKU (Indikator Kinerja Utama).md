@@ -1,0 +1,19 @@
+- Indikator kinerja utama seorang dosen sederhana ada tiga saja:
+	- dia harus pernah [[mengajar]]
+		- setiap semester ada minimum SKS (satuan kredit semester) yang harus ditangani.
+		- terdiri dari tatap muka dengan mahasiswa, asistensi (bila lebih dari 2 sks) dan kerja mandiri.
+		- menangani/mengampu kuliah bisa sendirian atau bersama mitra. Mitra bisa berasal dari:
+			- prodi sendiri,
+			- prodi lain dalam fakultas yang sama,
+			- prodi lain pada fakultas yang berbeda,
+			- dari universitas lain yang berdomisili dalam atau luar negeri ( [[konsep MBKM]] ),
+			- bahkan dari industri yang berdomisili di dalam atau luar negeri ( [[konsep MBKM]] )
+	- dia harus pernah [[meneliti]] secara ( [ref](https://hkilter.com/index.php?title=Monodisciplinary_vs_Pluridisciplinary_Research) ):
+		- monodisiplin
+		- multidisiplin (diutamakan dalam [[konsep MBKM]] ):
+			- transdisiplin
+			- crossdisiplin
+	- dia harus pernah melakukan [[pengabdian kepada masyarakat (PKM)]]
+		- ini sering dicampur-adukkan dengan [[layanan kepakaran]] (bahasa populernya `mroyek` )
+		- konsep mroyek sendiri saat ini sejalan dengan salah satu point dalam [[konsep MBKM]]
+		- [[pengabdian kepada masyarakat (PKM)]] yang dimaksud di sini adalah melakukan pelayanan kepada masyarakat, tanpa imbalan upah. Imbalan upah ini adalah penciri utama antara PKM dengan [[layanan kepakaran]]

@@ -1,0 +1,6 @@
+- yang dimaksud di sini adalah melakukan pelayanan kepada masyarakat, tanpa imbalan upah.
+- masalah yang dicarikan solusinya adalah masalah yang terjadi di masyarakat juga.
+- pada level akar rumput.
+- dengan melibatkan masyarakat. jadi masyarakat bukan hanya sebagai `penonton` .
+- dana PKM bisa dari pemerintah (via kementerian), dari perguruan tinggi, dari industri, atau dari dana pemerintah yang mengalir ke masyarakat (misal Dana Desa).
+- biasanya pendanaan bersifat `at cost` untuk membiayai aktivitas, bukan sebagai upah kerja.
